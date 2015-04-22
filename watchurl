@@ -1,0 +1,61 @@
+# rubygem-rubocop requires version (~>3.2.0) //update is available
+# check: https://rubygems.org/gems/rubocop/versions/0.32.0 
+# rubygem-appraisal requires version (~>3.0)
+# check: https://rubygems.org/gems/appraisal/versions/2.0.1
+# rubygem-cucumber-core requires version (~>3)
+# check: https://rubygems.org/gems/cucumber-core/versions/1.1.3
+# rubygem-bcrypt requires version (>=3)
+# check: https://rubygems.org/gems/bcrypt/versions/3.1.10
+# rubygem-bluecloth requires version (~>2.6)
+# check: https://rubygems.org/gems/bluecloth/versions/2.2.0
+# rubygem-blankslate requires version (>=0)
+# check: https://rubygems.org/gems/blankslate/versions/3.1.3
+# rubygem-kaminari requires version (>=0)
+# check: https://rubygems.org/gems/kaminari/versions/0.16.1 //update is available
+# rubygem-hashie requires version (~>3.0)
+# check: https://rubygems.org/gems/hashie/versions/3.4.2
+# rubygem-tdiff requires version (~>2.4)
+# check: https://rubygems.org/gems/tdiff/versions/0.3.3
+# rubygem-guard-rspec requires version (< 4.0, >=2.99.0)
+# check: https://rubygems.org/gems/guard-rspec/versions/4.5.2
+# rubygem-gherkin requires version (~>2.14.1)
+# check: https://rubygems.org/gems/gherkin/versions/2.12.2
+# rubygem-rspec-fire requires version (< 4, >=2.11)
+# check: https://rubygems.org/gems/rspec-fire/versions/1.3.0
+# rubygem-addressable requires version (~>3.0)
+# check: https://rubygems.org/gems/addressable/versions/2.3.8
+# rubygem-ruby-rc4 requires version (>=0)
+# check: https://rubygems.org/gems/ruby-rc4/versions/0.1.5
+# rubygem-pdf-reader requires version (~>2.3)
+# check: https://rubygems.org/gems/pdf-reader/versions/1.3.3 
+# rubygem-capybara requires version (>=2.2.0)
+# check: https://rubygems.org/gems/capybara/2.4.4
+# rubygem-rake-compiler requires version (~>2.8.0)
+# check: https://rubygems.org/gems/rake-compiler/versions/0.9.5
+# rubygem-rspec-spies requires version (~>2.0)
+# check: https://rubygems.org/gems/rspec-spies/versions/2.1.4
+# rubygem-RedCloth requires version (~>2.4)
+# check: https://rubygems.org/gems/RedCloth/versions/4.2.9
+# rubygem-prawn requires version (=2.14.1)
+# check: https://rubygems.org/gems/prawn
+# rubygem-uglifier requires version (~>3.0)
+# check: https://rubygems.org/gems/uglifier/versions/2.7.1
+# rubygem-libv8 requires version (>=0)
+# check: https://rubygems.org/gems/libv8
+# rubygem-fuubar requires version (~>3.0)
+# check: https://rubygems.org/gems/fuubar/versions/2.0.0 
+# rubygem-docile requires version (~>3.0.0)
+# check: https://rubygems.org/gems/docile/versions/1.1.5
+# rubygem-cane requires version (~>2.0)
+# check: https://rubygems.org/gems/cane/versions/2.6.2
+# rubygem-cucumber requires version (>=3.0)
+# check: https://rubygems.org/gems/cucumber/versions/2.0.0
+# rubygem-diff-lcs requires version (~>2.0)
+# check: https://rubygems.org/gems/diff-lcs/versions/1.2.5
+# rubygem-blankslate requires version (>=0)
+# check: https://rubygems.org/gems/blankslate/versions/3.1.3
+# rubygem-bundler requires version (~>3.0) //update available
+# check: https://rubygems.org/gems/bundler/versions/1.10.3
+# rubygem-rest-client requires version (~>2.4)
+# check: https://rubygems.org/gems/rest-client/versions/1.8.0
+watchurl=https://rubygems.org/gems/rspec/versions/(3.[\d\.]*)
