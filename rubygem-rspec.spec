@@ -4,7 +4,7 @@
 #
 Name     : rubygem-rspec
 Version  : 3.3.0
-Release  : 7
+Release  : 8
 URL      : https://rubygems.org/downloads/rspec-3.3.0.gem
 Source0  : https://rubygems.org/downloads/rspec-3.3.0.gem
 Summary  : No detailed summary available
@@ -56,13 +56,9 @@ fi
 
 %files
 %defattr(-,root,root,-)
-/usr/lib64/ruby/gems/2.2.0/cache/rspec-3.3.0.gem
-/usr/lib64/ruby/gems/2.2.0/doc/rspec-3.3.0/ri/RSpec/Version/cdesc-Version.ri
-/usr/lib64/ruby/gems/2.2.0/doc/rspec-3.3.0/ri/RSpec/cdesc-RSpec.ri
-/usr/lib64/ruby/gems/2.2.0/doc/rspec-3.3.0/ri/cache.ri
-/usr/lib64/ruby/gems/2.2.0/doc/rspec-3.3.0/ri/page-README_md.ri
-/usr/lib64/ruby/gems/2.2.0/gems/rspec-3.3.0/License.txt
-/usr/lib64/ruby/gems/2.2.0/gems/rspec-3.3.0/README.md
-/usr/lib64/ruby/gems/2.2.0/gems/rspec-3.3.0/lib/rspec.rb
-/usr/lib64/ruby/gems/2.2.0/gems/rspec-3.3.0/lib/rspec/version.rb
-/usr/lib64/ruby/gems/2.2.0/specifications/rspec-3.3.0.gemspec
+/usr/lib64/ruby/gems/2.3.0/cache/rspec-3.3.0.gem
+/usr/lib64/ruby/gems/2.3.0/gems/rspec-3.3.0/License.txt
+/usr/lib64/ruby/gems/2.3.0/gems/rspec-3.3.0/README.md
+/usr/lib64/ruby/gems/2.3.0/gems/rspec-3.3.0/lib/rspec.rb
+/usr/lib64/ruby/gems/2.3.0/gems/rspec-3.3.0/lib/rspec/version.rb
+/usr/lib64/ruby/gems/2.3.0/specifications/rspec-3.3.0.gemspec
